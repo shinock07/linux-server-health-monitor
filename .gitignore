@@ -1,0 +1,12 @@
+# Generated health reports
+reports/*.log
+
+# Backup files
+*.backup
+*.bak
+*.step*-backup
+
+# Temporary files
+*.tmp
+*.swp
+*~
